@@ -62,17 +62,26 @@ span {
     background-position-y: 80%;
 }
 
-.stack1 {
+.exp_item {
     width: 40%;
     margin: 5%;
     box-shadow: 0 0 40px rgba(0, 0, 0, .7);
     padding: 20px;
+    border-left: 7px solid blue;
 }
 
-.stack1 h2 {
+.first_item {
+    border-left: 7px solid tomato;
+}
+
+.exp_item h2 {
     font-size: 40px;
 }
 
-.stack1 h3 {
+.exp_item h3 {
     color: orange;
+}
+
+footer p {
+    text-align: center;
 }
