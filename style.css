@@ -43,3 +43,10 @@ section {
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
+
+#half_width {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+}
